@@ -1,0 +1,16 @@
+[
+  {
+    "hotelId": "H1",
+    "arrival": "20250315",
+    "departure": "20250318",
+    "roomType": "DBL",
+    "roomRate": "Prepaid"
+  },
+  {
+    "hotelId": "H1",
+    "arrival": "20250315",
+    "departure": "20250319",
+    "roomType": "SGL",
+    "roomRate": "Standard"
+  }
+]
